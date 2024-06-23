@@ -1,7 +1,7 @@
 {
   "name": "champions_league_api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Essa é uma API Criada com os clubs e jogadores da Champions League",
   "main": "index.js",
   "type": "module",
   "scripts": {
