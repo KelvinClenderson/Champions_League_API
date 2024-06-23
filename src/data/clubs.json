@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "name": "Real Madrid"
+  },
+  {
+    "id": 2,
+    "name": "Barcelona"
+  },
+  {
+    "id": 3,
+    "name": "Manchester City"
+  },
+  {
+    "id": 4,
+    "name": "Atletico Madrid"
+  },
+  {
+    "id": 5,
+    "name": "Inter Milan"
+  },
+  {
+    "id": 6,
+    "name": "AC Milan"
+  },
+  {
+    "id": 7,
+    "name": "Napoli"
+  },
+  {
+    "id": 8,
+    "name": "Benfica"
+  },
+  {
+    "id": 9,
+    "name": "Porto"
+  },
+  {
+    "id": 10,
+    "name": "Paris Saint-Germain"
+  },
+  {
+    "id": 11,
+    "name": "Bayern Munich"
+  },
+  {
+    "id": 12,
+    "name": "RB Leipzig"
+  },
+  {
+    "id": 13,
+    "name": "Borussia Dortmund"
+  },
+  {
+    "id": 14,
+    "name": "Shakhtar Donetsk"
+  },
+  {
+    "id": 15,
+    "name": "Celtic"
+  },
+  {
+    "id": 16,
+    "name": "Red Bull Salzburg"
+  },
+  {
+    "id": 17,
+    "name": "Lazio"
+  },
+  {
+    "id": 18,
+    "name": "Feyenoord"
+  },
+  {
+    "id": 19,
+    "name": "Newcastle United"
+  },
+  {
+    "id": 20,
+    "name": "Arsenal"
+  },
+  {
+    "id": 21,
+    "name": "Sevilla"
+  },
+  {
+    "id": 22,
+    "name": "Real Sociedad"
+  },
+  {
+    "id": 23,
+    "name": "Union Berlin"
+  },
+  {
+    "id": 24,
+    "name": "Copenhagen"
+  },
+  {
+    "id": 25,
+    "name": "Galatasaray"
+  },
+  {
+    "id": 26,
+    "name": "Antwerp"
+  },
+  {
+    "id": 27,
+    "name": "Young Boys"
+  },
+  {
+    "id": 28,
+    "name": "Rangers"
+  },
+  {
+    "id": 29,
+    "name": "PSV Eindhoven"
+  },
+  {
+    "id": 30,
+    "name": "Braga"
+  },
+  {
+    "id": 31,
+    "name": "Lens"
+  },
+  {
+    "id": 32,
+    "name": "Crvena Zvezda"
+  }
+]
